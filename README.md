@@ -124,5 +124,3 @@ The regulatory landscape evolves. To update:
 ## License & Disclaimer
 
 This repository provides regulatory intelligence only. It does not constitute legal advice. The UK crypto regulatory regime is complex and subject to interpretation. Always consult legal professionals for compliance strategy.
-
-[Add your license here - MIT/Apache/etc.]
